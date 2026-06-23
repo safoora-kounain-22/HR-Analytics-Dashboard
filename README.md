@@ -76,4 +76,6 @@ Sales-related roles contributed significantly to attrition.
 Workforce trends can help HR teams develop targeted retention strategies.
 9. Dashboard Preview
     Show what the dashboard looks like.
-    Example: (https://github.com/safoora-kounain-22/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.png)
+    ## 📷 Dashboard Preview
+
+![HR Analytics Dashboard](dashboard.png)
