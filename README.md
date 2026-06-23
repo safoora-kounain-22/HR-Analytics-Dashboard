@@ -78,4 +78,4 @@ Workforce trends can help HR teams develop targeted retention strategies.
     Show what the dashboard looks like.
     ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](dashboard.png)
+![HR Analytics Dashboard](HR dashboard.png)
